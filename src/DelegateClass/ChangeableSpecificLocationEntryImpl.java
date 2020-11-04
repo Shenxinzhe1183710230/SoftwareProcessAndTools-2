@@ -1,5 +1,7 @@
 package DelegateClass;
 
+//在R4基础上进行修改
+
 import java.util.Date;
 
 import DelegateInterface.EntryInterface.ChangeableSpecificLocationEntry;
