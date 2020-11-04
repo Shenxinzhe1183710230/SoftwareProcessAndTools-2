@@ -1,5 +1,7 @@
 package DelegateClass;
 
+//在B3分支上进行修改
+
 import java.util.Date;
 
 import DelegateInterface.EntryInterface.ChangeableSpecificLocationEntry;
